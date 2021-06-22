@@ -6,3 +6,4 @@ meeting scheduler made with nextjs
 2) adding new meetups
 3) viewing all meetups
 4) viewing specific details of a particular meetups
+5) mongodb used
